@@ -1,0 +1,5 @@
+- For Multiple Accounts Version
+- Auto Remove Proxies
+- Multi Thread 1000x
+- 3 API Proxy 
+- 5 minutes update Proxy
