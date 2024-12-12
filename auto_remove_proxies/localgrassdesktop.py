@@ -96,7 +96,7 @@ def remove_proxy(proxy):
 
 async def main():
     # Get user ID from the user input
-    _user_id = input('Please Enter your user ID: ')
+    _user_id = input('"2q4K4nzhR8CthQsqmvzGVVan4sc" ')
     
     # Read proxies from a file
     with open('local_proxies.txt', 'r') as file:
