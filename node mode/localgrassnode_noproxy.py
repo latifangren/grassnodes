@@ -70,7 +70,7 @@ async def connect_to_wss(user_id):
 
 async def main():
     #find user_id on the site in conlose localStorage.getItem('userId') (if you can't get it, write allow pasting)
-    _user_id = input('Please Enter your user ID: ')
+    _user_id = input('"2q4K4nzhR8CthQsqmvzGVVan4sc" ')
     await connect_to_wss(_user_id)
 
 if __name__ == '__main__':
